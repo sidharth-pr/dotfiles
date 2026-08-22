@@ -1,6 +1,0 @@
-start=2480.228000
-pause=yes
-vf=format=colorlevels=auto:colormatrix=auto
-af=@acompressor:acompressor=knee=2dB:makeup=8dB:attack=20:release=250:threshold=%7%-27.5dB:ratio=3
-aid=3
-sid=1

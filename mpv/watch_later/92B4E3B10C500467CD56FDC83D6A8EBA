@@ -1,5 +1,0 @@
-start=3409.323000
-pause=yes
-volume=90.000000
-af=@acompressor:acompressor=makeup=8dB:threshold=-25dB:attack=20:ratio=1:knee=2dB:release=270
-sid=1

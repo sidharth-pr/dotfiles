@@ -1,7 +1,7 @@
 i3|symlink|.config
-emacs|symlink|.config
-flashfocus|symlink|.config
-mpv|symlink|.config
-nemo|symlink|.config
-picom|symlink|.config
+init.el|symlink|.config/emacs
+flashfocus.yml|symlink|.config/flashfocus
+mpv/mpv.conf|symlink|.config
+mpv/input.conf|symlink|.config
+picom.conf|symlink|.config/picom
 polybar|symlink|.config

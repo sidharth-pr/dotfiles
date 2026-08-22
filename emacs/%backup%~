@@ -1,4 +1,0 @@
-Section "ServerFlags"
-    Option "StandbyTime" "20"
-    Option "SuspendTime" "30"
-EndSection

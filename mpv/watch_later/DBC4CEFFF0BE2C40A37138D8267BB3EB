@@ -1,4 +1,0 @@
-start=710.835000
-pause=yes
-vf=format=colorlevels=auto:colormatrix=auto
-sub-visibility=no
