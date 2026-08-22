@@ -1,0 +1,4 @@
+### Usage
+
+`deploy.sh MANIFEST`
+
