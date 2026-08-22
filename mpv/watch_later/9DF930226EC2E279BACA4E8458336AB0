@@ -1,0 +1,6 @@
+start=2625.248000
+volume=88.000000
+brightness=2
+af=@acompressor:acompressor=release=250:ratio=1:threshold=-20dB:makeup=9dB:knee=2dB:attack=20
+aid=1
+sid=1

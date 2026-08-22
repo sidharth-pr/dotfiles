@@ -1,0 +1,6 @@
+start=1944.818000
+pause=yes
+vf=format=colorlevels=auto:colormatrix=auto
+aid=1
+sid=1
+sub-visibility=no

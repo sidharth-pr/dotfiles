@@ -1,0 +1,6 @@
+start=6531.497333
+pause=yes
+volume=50.000000
+af=pan=%2%@0=%74%stereo|FL=0.707*FC+0.3*FL+0.1*BL+0.1*LFE|FR=0.707*FC+0.3*FR+0.1*BR+0.1*LFE,lavfi=graph=%14%loudnorm=I=-16
+aid=1
+sid=1

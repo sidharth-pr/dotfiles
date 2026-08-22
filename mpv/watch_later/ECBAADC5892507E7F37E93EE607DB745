@@ -1,0 +1,4 @@
+start=2009.799000
+pause=yes
+vf=@autocrop-crop:lavfi-crop=x=0:w=1920:h=1080:y=0
+sid=1

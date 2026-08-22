@@ -1,0 +1,20 @@
+
+;; ----- smex-history -----
+(
+ package-install
+ recover-this-file
+ dired
+ make-directory
+ load-file
+ cd
+ 5x5
+)
+
+;; ----- smex-data -----
+(
+ (load-file . 18)
+ (package-install . 9)
+ (dired . 3)
+ (make-directory . 1)
+ (recover-this-file . 1)
+)
