@@ -9,11 +9,11 @@ flash-opacity: 0.95
 default-opacity: 1
 
 # Length of flash in milliseconds.
-time: 100
+time: 50
 
 # If true, flashes are not faded out. This will improve performance but flashes
 # won't be smooth.
-simple: true
+simple: false
 
 # Number of animation frames in a flash.
 ntimepoints: 1
@@ -35,7 +35,7 @@ flash-fullscreen: true
 #      if another window was just closed.
 #   'on_switch':
 #      Lone windows will be flashed only upon switching desktops.
-flash-lone-windows: 'on_open_close'
+flash-lone-windows: 'never'
 
 
 # Defining window-specific flash rules

@@ -60,7 +60,7 @@ font-2 = "Symbols Nerd Font Mono:size=12;2"
 ; modules set up
 modules-left = i3 sp2 sp2 sp2 sp2 xwindow
 modules-center = player-mpris-tail tray 
-modules-right = sp1 cpu sp1 eth sp1 pulseaudio sp1 date time usertext
+modules-right =  sp1 cpu sp1 eth sp1 pulseaudio sp1 date time usertext
 
 ;tray-position = right
 ;tray-padding = 2
@@ -83,6 +83,13 @@ tray-spacing = 0px
 tray-size = 60%
 tray-padding = 6px
 format-margin = 1
+
+[module/memory]
+type = internal/memory
+interval = 3
+format = <label>
+label = RAM %gb_used%/%gb_free%
+label-warn = RAM %gb_used% / %gb_free%
 
 [module/powermenu]
 type = custom/menu

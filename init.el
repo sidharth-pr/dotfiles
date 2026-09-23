@@ -1,4 +1,3 @@
-;; extra packges
 ;;(setq gnutls-algorithm-priority "NORMAL:-VERS-TLS1.3") 
 (require 'package)
 (setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
